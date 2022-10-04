@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
 </div>    
 
 ## <div align="center">I'm Faucon, a full-time weirdo not knowing what he's doing on the Internet 🤷‍♂️</div>  
