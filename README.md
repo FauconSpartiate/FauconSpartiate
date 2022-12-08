@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/49079695/193991091-7743127b-b747-48bb-8436-0e7732113bed.gif" align="center" style="width: 40%" />
-</div>    
+<div align="center"><img src="https://user-images.githubusercontent.com/49079695/193991091-7743127b-b747-48bb-8436-0e7732113bed.gif" style="width: 40%" /></div>    
 
 ## <div align="center">I'm Faucon, a full-time weirdo not knowing what he's doing on the Internet 🤷‍♂️</div>  
   
@@ -31,7 +29,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FauconSpartiate&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FauconSpartiate&show_icons=true&count_private=true&hide_border=true"/></div>  
 
 <br/>  
 
@@ -40,6 +38,8 @@
 <br/>  
 
 ## Support Me  
-- Why the hell would you support me? Keep your money and get a life...  
+- Why the hell would you support me? Reconsider life choices and click the button: 
+
+<div align="center"><a href="https://paypal.me/FauconSpartiate/"><img src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" /></a></div>  
 
 <br />
