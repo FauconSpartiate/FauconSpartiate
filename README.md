@@ -3,7 +3,7 @@
 ## <div align="center">I'm Faucon, a full-time weirdo not knowing what he's doing on the Internet 🤷‍♂️</div>  
   
 
-- 🔭 Currently working on [Grade-ly](https://github.com/NightDreamGames/Grade.ly), a free open-source cross platform grade tracking app  
+- 🔭 Currently working on [Graded](https://github.com/NightDreamGames/Graded), a free open-source cross platform grade tracking app  
   
 
 - 🎓 Studying CS in a weird little country  
