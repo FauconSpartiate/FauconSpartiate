@@ -12,7 +12,7 @@
 
 ## My Skill Set
 
-- Like I said, I touched at everything, but can't do shit lol
+- Like I said, I touched at everything, but can't do shit
 
 ---
 
