@@ -12,11 +12,11 @@
 
 ## My Skill Set
 
-- Like I said, I touched at everything, but can't do shit
+- Like I said, I tried out everything, but can't do shit properly
 
 ---
 
-## Support Me
+## Support Me 💸
 
 Why the hell would you support me? Reconsider life choices and [buy me a Ko-Fi](https://ko-fi.com/faucon) or [buy me a coffee but on PayPal](https://paypal.me/FauconSpartiate). Thank you! 💸
 
@@ -29,6 +29,6 @@ Why the hell would you support me? Reconsider life choices and [buy me a Ko-Fi](
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FauconSpartiate&show_icons=true&count_private=true&hide_border=true"/></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=fauconspartiate&show_icons=true&count_private=true&hide_border=true&theme=material-palenight"/></div>
 
 ---
